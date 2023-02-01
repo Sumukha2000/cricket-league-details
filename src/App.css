@@ -2,8 +2,8 @@
   margin: 0;
 }
 body {
-  background-image: url("/src/assets/zpllanding2.PNG");
+  background-image: url("/public/zpllanding2.png");
   background-repeat: no-repeat;
-  background-size:100;
+  background-size:100%;
   background-position: center;
 }
