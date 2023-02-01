@@ -6,8 +6,8 @@ function Landing() {
   return (
     <div>
          <Header />
-      <h1>Zeiss Premier League : 2023</h1>
-      <h2>The official inter department cricket tournament of Zeiss - India</h2>
+      <h1 className="zpl-title">Zeiss Premier League : 2023</h1>
+      <h2 className="zpl-description">The official inter-department cricket tournament of Zeiss - India</h2>
       <button onClick={() => navigate("/teams")}>Explore Teams</button>
     </div>
   );
